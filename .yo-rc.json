@@ -1,0 +1,10 @@
+{
+  "generator-multi": {
+    "promptValues": {
+      "ghUname": "alestor123",
+      "website": "https://github.com/alestor123/CREATE-PROFILE#readme",
+      "donate": "https://alestor123.is-a.dev/donate",
+      "authorName": "Alestor Aldous"
+    }
+  }
+}

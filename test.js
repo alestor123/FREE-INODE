@@ -1,0 +1,8 @@
+const tap = require('tap')
+const freeInode = require('./App')
+tap.throws(() => freeInode(), new Error('Please enter a vaild path'))
+tap.throws(() => freeInode(1), new Error('Please enter a vaild path'))
+tap.throws(() => freeInode(''), new Error('Please enter a vaild path'))
+tap.throws(() => freeInode('qwdwedwd'), new Error('Please enter a vaild path'))
+const { inumber } = freeInode('./').find(element => element.name === 'tss')
+tap.equal(inumber === 5, true)
