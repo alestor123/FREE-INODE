@@ -10,7 +10,7 @@
 	"author": {
 		"name": "Alestor Aldous",
 		"email": "alestoraldous@gmail.com",
-		"url": "https://github.com/alestor123/CREATE-PROFILE#readme"
+		"url": "https://alestor123.is-a.dev"
 	},
 	"type": "module",
 	"bin": "cli.js",
@@ -28,7 +28,14 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		""
+		"free",
+		"liberate",
+		"inode",
+		"node",
+		"nodejs",
+		"chalk",
+		"figlet",
+		"prompt"
 	],
 	"devDependencies": {
 		"standard": "^16.0.3",
