@@ -12,7 +12,6 @@
 		"email": "alestoraldous@gmail.com",
 		"url": "https://alestor123.is-a.dev"
 	},
-	"type": "module",
 	"bin": "cli.js",
 	"engines": {
 		"node": ">=10"
@@ -35,7 +34,14 @@
 		"nodejs",
 		"chalk",
 		"figlet",
-		"prompt"
+		"prompt",
+		"disk",
+		"fs",
+		"tool",
+		"clean",
+		"space",
+		"disk-space",
+		"NOSPC"
 	],
 	"devDependencies": {
 		"standard": "^16.0.3",
