@@ -33,10 +33,11 @@ $ npm install -g free-inode
 $ free-inode <inode number threshold>
 ```
 
-#    
-![shot](./shots/freeinode.png)
+# Screenshot    
 
-![shot](./shots/freeinode2.png)
+![shot](https://raw.githubusercontent.com/alestor123/FREE-INODE/master/shots/freeinode.png)
+
+![shot](https://raw.githubusercontent.com/alestor123/FREE-INODE/master/shots/freeinode2.png)
 
 ## 💖 [Donate](https://alestor123.is-a.dev/donate)
 
